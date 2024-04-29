@@ -15,3 +15,4 @@ _build/*
 **/.merlin
 
 test/coq_extracted/*
+_opam/
