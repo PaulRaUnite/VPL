@@ -17,6 +17,8 @@
 
 (homepage "https://github.com/PaulRaUnite/VPL")
 
+(license LGPL-3.0)
+
 (name vpl-core)
 
 (version 0.6)
